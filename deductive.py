@@ -1,5 +1,4 @@
 # Name: Shashank Karkada Holla
-# ECE 6140
 # Deductive Fault Simulator
 # Usage: Follow the examples in the README.pdf file
 
